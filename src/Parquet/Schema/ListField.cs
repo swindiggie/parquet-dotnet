@@ -14,7 +14,7 @@ namespace Parquet.Schema {
         /// <summary>
         /// Name of the element item for schema definition.
         /// </summary>
-        public const string ElementName = "element";
+        public const string ElementName = "item";
 
         /// <summary>
         /// Default container name for a list
